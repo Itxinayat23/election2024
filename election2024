@@ -1,0 +1,91 @@
+<html>
+
+<head>
+
+<title>election 2024</title>
+
+</head>
+ 
+<body style=background-color:lightblue>
+
+<h1>election 2024</h1>
+
+<fieldset>
+
+<legend> E- voting system
+</legend>
+
+<table boder="1">
+ <tr>
+
+ <td>first name</td><td><input type="text">
+
+</tr>
+ <tr>
+
+ <td>Last name</td><td><input type="text">
+
+</tr>
+
+ <tr>
+
+ <td>address</td><td><input type="text">
+
+</tr>
+
+
+<tr>
+
+<td>candidate name </td><td><select>
+
+                      <option>name1</option>
+
+
+                      <option>name2</option>
+
+
+                      <option>name3</option>
+
+
+                      <option>name4</option>
+
+
+</tr>
+
+<td>party</td><td><select>
+
+
+                      <option>ppp</option>
+
+
+                      <option>pti</option>
+
+
+                      <option>pml</option>
+
+
+                      <option>tlp</option>
+
+
+
+</tr>
+
+<tr><td>Gender</td><td><input type="radio" name "e">male<input type="radio" name="e">female</td></tr>
+
+</td>
+</tr>
+</table>
+
+<input type="submit"value="submit">
+
+</fieldest>
+
+
+  
+</body>
+
+
+
+
+</html>
+
